@@ -19,3 +19,7 @@ https://www.w3schools.com/default.asp
 
 >오늘의 강의 평가
 https://goo.gl/forms/L3DPczsuULfPUpdd2
+
+4주차
+>오늘의 강의 평가
+https://goo.gl/forms/PYw1DRKAv7wgdRkO2
