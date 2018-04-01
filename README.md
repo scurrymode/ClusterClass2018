@@ -26,3 +26,7 @@ https://notepad-plus-plus.org/
 
 >오늘의 강의 평가
 https://goo.gl/forms/PYw1DRKAv7wgdRkO2
+
+5주차
+>오늘의 강의 평가
+https://goo.gl/forms/wtVIydXLLXjLlxWh2
