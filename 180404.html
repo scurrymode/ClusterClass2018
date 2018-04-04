@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+	<head>
+		<title>도장찍기</title>
+		<style>
+			#canvas{
+				width:100%;
+				height:1000px;
+			}
+		</style>
+		<script>
+			function stamp(){
+				//명령
+				//자바스크립트로 태그를 동적 생성
+				//<img src="./개구리.jpg">
+				var img = document.createElement("img");
+				img.src = "./개구리.jpg";
+				img.style.position="absolute";
+				img.style.left = event.clientX + "px";
+				img.style.top = event.clientY + "px";
+				
+				var canvas = document.getElementById("canvas");
+				canvas.appendChild(img);
+				img.style.width="50px";
+				
+			}
+		</script>
+	</head>
+	<body>
+		<div id="canvas" onMouseDown="stamp()">
+			
+		</div>
+	
+	</body>
+</html>
