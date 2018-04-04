@@ -30,3 +30,7 @@ https://goo.gl/forms/PYw1DRKAv7wgdRkO2
 5주차
 >오늘의 강의 평가
 https://goo.gl/forms/wtVIydXLLXjLlxWh2
+
+6주차
+>오늘의 강의 평가
+https://goo.gl/forms/H85xu8faqUf6PRyq2
