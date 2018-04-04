@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+<head>
+<title>감속도 운동</title>
+<style>
+	
+</style>
+<script>
+	var st;
+	var a = 0.1;
+	var targetX = 500;
+	var targetY = 500;
+	var me;
+	var info1;
+	var info2;
+	function init(){
+		me = document.getElementById("image");
+		info1 = document.getElementById("info1");
+		info2 = document.getElementById("info2");
+	}
+	
+	function move(){
+		info1.innerText = targetX;
+		info2.innerText = targetY;
+		//me.style.top = targetY+"px";
+		//me.style.left = targetX+"px";
+		me.style.top = parseInt(me.style.top)+a*(targetY-parseInt(me.style.top))+"px";
+		me.style.left = parseInt(me.style.left)+a*(targetX-parseInt(me.style.left))+"px";
+		st = setTimeout("move()", 50);
+	}
+	function setPos(){
+		targetX = event.clientX;
+		targetY = event.clientY;
+	}
+	
+	function stop(){
+		clearTimeout(st);
+	}
+</script>
+
+</head>
+
+<body onLoad="init()">
+	<div id="container" style="width:100%; height:1000px;" onMouseDown="setPos()" onMouseUp="move()">
+	<input type="button" value="start" onClick="move()">
+	<br>
+	목표지점의 X좌표:<h1 id="info1"></h1>
+	<br>
+	목표지점의 Y좌표:<h1 id="info2"></h1>
+	<br>
+	<input type="button" value="stop" onClick="stop()">
+	<img id="image" src="./개구리.jpg" style="position:absolute; left:100px; top:300px">	
+	</div>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+me.style.top 이미지 y축 좌표 100
+
+targetY 마우스클릭한 y축 좌표 200
+
+me.style.top = parseInt(me.style.top)+a*(targetY-parseInt(me.style.top))
+
+내위치 = 내위치 +  a * (목적지-내위치)
+
+a=0.1
+
+100 -> 110
+
+
+
+
+
+
+
+
+
+
