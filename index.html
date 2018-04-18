@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+<title>횡스크롤 비행기 게임</title>
+<style>
+body{
+	margin:0px;
+}
+#container{
+	width:100%;
+	height:900px;
+	background:url("../images/bg1.jpg");
+	background-repeat:x-repeat;
+	position:absolute;
+}
+</style>
+
+<script src="../js/Plane.js"></script>
+<script></script>
+<script></script>
+<script></script>
+<script>
+var b=0; //백그라운드 좌표
+var plane; //우리 비행기
+var eArray = new Array(); //적들을 담을 배열
+
+function init(){
+	moveBack();
+	plane = new Plane(document.getElementById("container"));
+	plane.init();
+	//createEnemy();
+}
+
+function moveBack(){
+	document.getElementById("container").style.backgroundPosition 
+	= b + "px 0px";
+	
+	b-=10;
+	setTimeout("moveBack()", 20);
+}
+
+function control(){
+	var key = event.keyCode;
+	if(key == 32){//총알발사
+	}
+	
+	else if(key == 37){//좌
+		plane.velX = -5;
+	}
+	else if(key == 39){//우
+		plane.velX = 5;
+	}
+	else if(key == 38){//위
+		plane.velY = -5;
+	}
+	else if(key == 40){//아래
+		plane.velY = 5;
+	}
+}
+
+function stop(){
+	plane.velX = 0;
+	plane.velY = 0;
+}
+
+</script>
+</head>
+<body onLoad="init()" 
+onKeyDown="control()" onKeyUp="stop()">
+<div id="container"></div>
+</body>
+</html>
+
+
+
+
+
+
+
