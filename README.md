@@ -38,3 +38,7 @@ https://goo.gl/forms/H85xu8faqUf6PRyq2
 7주차
 >오늘의 강의 평가
 https://goo.gl/forms/QyrhCeeOnIp17Dtr1
+
+8주차
+>오늘의 강의 평가
+https://goo.gl/forms/3Q8toyRui0rKvPGr1
