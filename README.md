@@ -42,6 +42,7 @@ https://goo.gl/forms/QyrhCeeOnIp17Dtr1
 8주차
 >오늘의 강의 평가
 https://goo.gl/forms/3Q8toyRui0rKvPGr1
+
 >숙제1
   * 나한테 필요한 앱
   * 주변 사람한테 필요한 앱
