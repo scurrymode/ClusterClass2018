@@ -9,7 +9,8 @@ var Plane = function(container){
 	this.init = function(){
 		this.img = document.createElement("img");
 		this.img.src = "../images/plane.png";
-		this.img.style.width = "200px";
+		this.img.style.width = "300px";
+                this.img.style.height = "150px";
 		this.img.style.position = "absolute";
 		this.img.style.left = 0 + "px";
 		this.img.style.top = 0 + "px";
@@ -18,7 +19,7 @@ var Plane = function(container){
 		
 		this.move();
 	}
-	
+
 	this.move = function(){
 		var me = this;
 		this.x+=this.velX;
@@ -27,7 +28,9 @@ var Plane = function(container){
 		this.img.style.left = this.x +"px";
 		this.img.style.top = this.y +"px";
 		
-		setTimeout(function(){me.move();}, 5);
-		
+		setTimeout(function(){me.move();},5)
 	}
+	
 }
+	
+	
