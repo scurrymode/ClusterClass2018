@@ -57,4 +57,11 @@ https://goo.gl/forms/3Q8toyRui0rKvPGr1
   * 아이템 위에서 아래로
   + 먹으면 점수 상승 / 총알 종류 변경
 
+9주차
+>교육자료 모음 카페
+http://cafe.naver.com/hicodings
+
+>오늘의 강의 평가
+https://goo.gl/forms/JfV7UaUDb3gCGm692
+
 
