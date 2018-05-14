@@ -65,4 +65,6 @@ SW교육(학교) -> 일산대진고(클러스터)
 >오늘의 강의 평가
 https://goo.gl/forms/JfV7UaUDb3gCGm692
 
-
+10주차
+>오늘의 강의 평가
+https://goo.gl/forms/hnIX0Kt24AmBu3yg1
