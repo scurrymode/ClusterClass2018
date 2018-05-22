@@ -68,3 +68,7 @@ https://goo.gl/forms/JfV7UaUDb3gCGm692
 10주차
 >오늘의 강의 평가
 https://goo.gl/forms/hnIX0Kt24AmBu3yg1
+
+11주차
+>오늘의 강의 평가
+https://goo.gl/forms/YhwcdzXrDUgKXLUB2
