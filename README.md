@@ -76,3 +76,7 @@ https://goo.gl/forms/YhwcdzXrDUgKXLUB2
 12주차
 >오늘의 강의 평가
 https://goo.gl/forms/RwYjr3eLDRHZGQnG3
+
+13주차
+>오늘의 강의 평가
+https://goo.gl/forms/VDr0TWbu4rvAmzfC2
