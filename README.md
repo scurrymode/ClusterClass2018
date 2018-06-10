@@ -80,3 +80,7 @@ https://goo.gl/forms/RwYjr3eLDRHZGQnG3
 13주차
 >오늘의 강의 평가
 https://goo.gl/forms/VDr0TWbu4rvAmzfC2
+
+14주차
+>오늘의 강의 평가
+https://goo.gl/forms/N6hCav1vaLco2O203
