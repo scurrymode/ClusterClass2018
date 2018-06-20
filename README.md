@@ -87,7 +87,7 @@ https://goo.gl/forms/N6hCav1vaLco2O203
 
 15주차
 >앱 아이디어 모의투자
-
+https://goo.gl/forms/DyDzYwOHUXuPtTmn2
 
 >오늘의 강의 평가
 https://goo.gl/forms/FCmXxmFNBu78jwLU2
