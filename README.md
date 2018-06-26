@@ -91,3 +91,7 @@ https://goo.gl/forms/DyDzYwOHUXuPtTmn2
 
 >오늘의 강의 평가
 https://goo.gl/forms/FCmXxmFNBu78jwLU2
+
+16주차
+>오늘의 강의 평가
+https://goo.gl/forms/wQJWxgDJ4cfBA0en2
