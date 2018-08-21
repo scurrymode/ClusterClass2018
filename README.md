@@ -1,4 +1,10 @@
 # ClusterClass2018
+# 2학기
+1주차
+>설문지 작성
+https://goo.gl/forms/bVIAwBL4AShrs0Wy1
+
+# 1학기
 1주차
 >설문지 작성
 https://goo.gl/forms/kUgI78hhsCetT1WD3
