@@ -1,7 +1,7 @@
 # ClusterClass2018
 # 2학기
 1주차
->설문지 작성
+>오늘의 강의 
 https://goo.gl/forms/bVIAwBL4AShrs0Wy1
 
 # 1학기
