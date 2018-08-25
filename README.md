@@ -1,8 +1,26 @@
 # ClusterClass2018
 # 2학기
 1주차
->오늘의 강의 
+>오늘의 강의 평가
 https://goo.gl/forms/bVIAwBL4AShrs0Wy1
+
+2주차
+>오늘의 강의 평가
+https://goo.gl/forms/DPaTqDIVacveniwm2
+
+
+
+
+
+
+
+
+
+
+
+
+
+------
 
 # 1학기
 1주차
