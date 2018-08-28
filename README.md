@@ -8,6 +8,9 @@ https://goo.gl/forms/bVIAwBL4AShrs0Wy1
 >오늘의 강의 평가
 https://goo.gl/forms/DPaTqDIVacveniwm2
 
+3주차
+>오늘의 강의 평가
+https://goo.gl/forms/qBHMGzyt13BnY4O62
 
 
 
