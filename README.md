@@ -20,7 +20,9 @@ https://goo.gl/forms/ULfyBmGzHbYHROCD2
 >오늘의 강의 평가
 https://goo.gl/forms/LRfgFIEszgvofM922
 
-
+6주차
+>오늘의 강의 평가
+https://goo.gl/forms/WNDUADVzHZOmQUAi1
 
 
 
