@@ -24,8 +24,9 @@ https://goo.gl/forms/LRfgFIEszgvofM922
 >오늘의 강의 평가
 https://goo.gl/forms/WNDUADVzHZOmQUAi1
 
-
-
+7주차
+>오늘의 강의 평가
+https://goo.gl/forms/wkvgzytTZaT7aG5D2
 
 
 
