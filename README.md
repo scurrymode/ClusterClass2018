@@ -32,7 +32,9 @@ https://goo.gl/forms/wkvgzytTZaT7aG5D2
 >오늘의 강의 평가
 https://goo.gl/forms/76tpKdVVf7wWzy7A2
 
-
+9주차
+>오늘의 강의 평가
+https://goo.gl/forms/3kFiGgHfjEvJltIx1
 
 
 
