@@ -40,6 +40,10 @@ https://goo.gl/forms/3kFiGgHfjEvJltIx1
 >오늘의 강의 
 https://goo.gl/forms/W91eMajPds4q5zTg2
 
+11주차
+>오늘의 강의
+https://goo.gl/forms/mMwMYg4ERdGBSZNu1
+
 
 ------
 
