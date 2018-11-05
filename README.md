@@ -45,6 +45,10 @@ https://goo.gl/forms/W91eMajPds4q5zTg2
 https://goo.gl/forms/mMwMYg4ERdGBSZNu1
 
 
+12주차
+>오늘의 강의
+https://goo.gl/forms/bkdjPchigPKenZTz1
+
 ------
 
 # 1학기
