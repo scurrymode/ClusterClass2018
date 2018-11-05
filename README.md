@@ -49,6 +49,9 @@ https://goo.gl/forms/mMwMYg4ERdGBSZNu1
 >오늘의 강의
 https://goo.gl/forms/bkdjPchigPKenZTz1
 
+2학기 복습자료
+https://docs.google.com/presentation/d/1imy6U1-C63vhfcB_ITSYdIHgdyg-mWEQrhYVkxLocdE/edit?usp=sharing
+
 ------
 
 # 1학기
